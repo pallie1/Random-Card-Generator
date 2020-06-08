@@ -1,0 +1,60 @@
+body {
+    /* background-color: pink; */
+    background-image: url(http://getwallpapers.com/wallpaper/full/0/8/1/348948.jpg);
+}
+
+h1 {
+    color: lightgray;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    padding-top: 5%;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 90%;
+    margin: 5%;
+    /* justify-content: flex-start; */
+}
+
+#mainCard {
+    border-radius: 5px;
+    height: 2em;
+    width: 40%;
+    background-color: olivedrab;
+    cursor: pointer;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+img {
+    height: 200px;
+   
+}
+
+
+
+/* .picked {
+    border: black;
+} */
+
+
+/* .square {
+    height: 100px;
+    width: 100px;
+    background-color: gray;
+    cursor: pointer;
+    margin: 20%;
+    display: block;
+}    */
