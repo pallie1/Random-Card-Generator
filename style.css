@@ -1,5 +1,4 @@
 body {
-    /* background-color: pink; */
     background-image: url(https://i.imgur.com/Y9RbOBH.jpg);
 }
 
@@ -20,7 +19,6 @@ h1 {
     flex-wrap: wrap;
     width: 90%;
     margin: 5%;
-    /* justify-content: flex-start; */
 }
 
 #mainCard {
@@ -39,22 +37,5 @@ h1 {
 }
 
 img {
-    height: 200px;
-   
+    height: 200px;  
 }
-
-
-
-/* .picked {
-    border: black;
-} */
-
-
-/* .square {
-    height: 100px;
-    width: 100px;
-    background-color: gray;
-    cursor: pointer;
-    margin: 20%;
-    display: block;
-}    */
